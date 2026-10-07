@@ -6,9 +6,8 @@ You don't need everything figured out. You need a starting point and a next step
 
 <div align="center">
 
-| ① | ② | ③ | ④ |
+| Choose | Research | Learn and build | Publish |
 | :---: | :---: | :---: | :---: |
-| **Choose**<br><sub>a direction</sub> | **Research**<br><sub>the field</sub> | **Learn and build**<br><sub>one project at a time</sub> | **Publish**<br><sub>your work</sub> |
 
 </div>
 

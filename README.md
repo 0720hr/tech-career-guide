@@ -4,9 +4,13 @@
 
 You don't need everything figured out. You need a starting point and a next step. This guide gives you both in about 10 minutes.
 
-| Step 1 | Step 2 | Step 3 | Step 4 |
+<div align="center">
+
+| ① | ② | ③ | ④ |
 | :---: | :---: | :---: | :---: |
-| **Choose** a direction | **Research** the field | **Learn and build** projects | **Publish** your work |
+| **Choose**<br><sub>a direction</sub> | **Research**<br><sub>the field</sub> | **Learn and build**<br><sub>one project at a time</sub> | **Publish**<br><sub>your work</sub> |
+
+</div>
 
 ---
 

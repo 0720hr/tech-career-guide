@@ -4,11 +4,9 @@
 
 You don't need everything figured out. You need a starting point and a next step. This guide gives you both in about 10 minutes.
 
-```mermaid
-flowchart LR
-    A["1. Choose"] --> B["2. Research"] --> C["3. Learn and build"] --> D["4. Publish"]
-    D --> C
-```
+| Step 1 | Step 2 | Step 3 | Step 4 |
+| :---: | :---: | :---: | :---: |
+| **Choose** a direction | **Research** the field | **Learn and build** projects | **Publish** your work |
 
 ---
 
